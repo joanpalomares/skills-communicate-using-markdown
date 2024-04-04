@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello cat!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself
